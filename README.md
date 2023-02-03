@@ -2,7 +2,7 @@
  Movie review app that allows users to give reviews to their favorite movies and tv shows.
 
 **Link to project:**https://clips-zroc.vercel.app/ </br>
-**Link to github:** https://github.com/DominikJ22/clips
+
 
 <p align="center">
 <img width="500" src="clips.gif" alt="clips.gif"/> 
