@@ -5,7 +5,7 @@
 
 
 <p align="center">
-<img width="500" src="clips.gif" alt="clips.gif"/> 
+<img src="clips.gif" alt="clips.gif"/> 
 </p>
 
 ## How It's Made:
